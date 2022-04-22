@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressureAlarm", "PressureAlarm\PressureAlarm.csproj", "{BCB97F6E-2D90-493E-8AE5-BC19578C1BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB97F6E-2D90-493E-8AE5-BC19578C1BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB97F6E-2D90-493E-8AE5-BC19578C1BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB97F6E-2D90-493E-8AE5-BC19578C1BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB97F6E-2D90-493E-8AE5-BC19578C1BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDECF6D0-9870-425A-833C-E7C1D9930F32}
+	EndGlobalSection
+EndGlobal
